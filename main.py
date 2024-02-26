@@ -205,4 +205,4 @@ def delete_livre(id: int = Path(ge=1)) -> Livre:
     raise HTTPException(status_code=404, detail=f"Le livre {id} n'existe pas.")
 
 if __name__ == "__main__":
-    uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)
+    uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)#le reload pour quil fasse les modification direct
