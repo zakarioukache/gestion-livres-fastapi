@@ -1,0 +1,243 @@
+[
+    {
+        "id": 1,
+        "nom": "Le Seigneur des Anneaux",
+        "auteur": "J.R.R. Tolkien",
+        "editeur": "Christian Bourgois Éditeur"
+    },
+    {
+        "id": 2,
+        "nom": "Harry Potter à l'école des sorciers",
+        "auteur": "J.K. Rowling",
+        "editeur": "Gallimard Jeunesse"
+    },
+    {
+        "id": 3,
+        "nom": "1984",
+        "auteur": "George Orwell",
+        "editeur": "Gallimard"
+    },
+    {
+        "id": 4,
+        "nom": "Orgueil et Préjugés",
+        "auteur": "Jane Austen",
+        "editeur": "Folio"
+    },
+    {
+        "id": 5,
+        "nom": "Les Misérables",
+        "auteur": "Victor Hugo",
+        "editeur": "Gallimard"
+    },
+    {
+        "id": 6,
+        "nom": "Le Petit Prince",
+        "auteur": "Antoine de Saint-Exupéry",
+        "editeur": "Gallimard Jeunesse"
+    },
+    {
+        "id": 7,
+        "nom": "Le Hobbit",
+        "auteur": "J.R.R. Tolkien",
+        "editeur": "Christian Bourgois Éditeur"
+    },
+    {
+        "id": 8,
+        "nom": "Crime et Châtiment",
+        "auteur": "Fiodor Dostoïevski",
+        "editeur": "Le Livre de Poche"
+    },
+    {
+        "id": 9,
+        "nom": "Les Fleurs du Mal",
+        "auteur": "Charles Baudelaire",
+        "editeur": "Le Livre de Poche"
+    },
+    {
+        "id": 10,
+        "nom": "L'Étranger",
+        "auteur": "Albert Camus",
+        "editeur": "Folio"
+    },
+    {
+        "id": 11,
+        "nom": "Le Comte de Monte-Cristo",
+        "auteur": "Alexandre Dumas",
+        "editeur": "Le Livre de Poche"
+    },
+    {
+        "id": 12,
+        "nom": "Le Rouge et le Noir",
+        "auteur": "Stendhal",
+        "editeur": "Folio"
+    },
+    {
+        "id": 13,
+        "nom": "Les Trois Mousquetaires",
+        "auteur": "Alexandre Dumas",
+        "editeur": "Folio"
+    },
+    {
+        "id": 14,
+        "nom": "Le Parfum",
+        "auteur": "Patrick Süskind",
+        "editeur": "Le Livre de Poche"
+    },
+    {
+        "id": 15,
+        "nom": "Anna Karénine",
+        "auteur": "Léon Tolstoï",
+        "editeur": "Gallimard"
+    },
+    {
+        "id": 16,
+        "nom": "Le Nom de la rose",
+        "auteur": "Umberto Eco",
+        "editeur": "Grasset"
+    },
+    {
+        "id": 17,
+        "nom": "Germinal",
+        "auteur": "Émile Zola",
+        "editeur": "Le Livre de Poche"
+    },
+    {
+        "id": 18,
+        "nom": "La Nuit des temps",
+        "auteur": "René Barjavel",
+        "editeur": "Pocket"
+    },
+    {
+        "id": 19,
+        "nom": "Fahrenheit 451",
+        "auteur": "Ray Bradbury",
+        "editeur": "Gallimard"
+    },
+    {
+        "id": 20,
+        "nom": "Le Horla",
+        "auteur": "Guy de Maupassant",
+        "editeur": "Folio"
+    },
+    {
+        "id": 21,
+        "nom": "L'Interprète des ténèbres",
+        "auteur": "Donato Carrisi",
+        "editeur": "Calmann-Lévy"
+    },
+    {
+        "id": 22,
+        "nom": "L'Île des oubliés",
+        "auteur": "Victoria Hislop",
+        "editeur": "Les Escales"
+    },
+    {
+        "id": 23,
+        "nom": "Les Illusions",
+        "auteur": "Maxime Chattam",
+        "editeur": "Pocket"
+    },
+    {
+        "id": 24,
+        "nom": "L'Incendie de Lisbonne",
+        "auteur": "Philippe Besson",
+        "editeur": "Julliard"
+    },
+    {
+        "id": 25,
+        "nom": "Les Inséparables",
+        "auteur": "Simone de Beauvoir",
+        "editeur": "Gallimard"
+    },
+    {
+        "id": 26,
+        "nom": "L'Incolore Tsukuru Tazaki et ses années de pèlerinage",
+        "auteur": "Haruki Murakami",
+        "editeur": "Belfond"
+    },
+    {
+        "id": 27,
+        "nom": "L'Invention de Morel",
+        "auteur": "Adolfo Bioy Casares",
+        "editeur": "Folio"
+    },
+    {
+        "id": 28,
+        "nom": "Les Innocents",
+        "auteur": "Michael Connelly",
+        "editeur": "Calmann-Lévy"
+    },
+    {
+        "id": 29,
+        "nom": "L'Indien blanc",
+        "auteur": "Craig Johnson",
+        "editeur": "Gallmeister"
+    },
+    {
+        "id": 30,
+        "nom": "L'Île du diable",
+        "auteur": "Nicolas Beuglet",
+        "editeur": "XO"
+    },
+    {
+            "id": 31,
+            "nom": "L'Île au trésor",
+            "auteur": "Robert Louis Stevenson",
+            "editeur": "Folio Junior"
+    },
+    {
+            "id": 32,
+            "nom": "Le Journal d'Anne Frank",
+            "auteur": "Anne Frank",
+            "editeur": "Le Livre de Poche"
+    },
+    {
+            "id": 33,
+            "nom": "La Journée de la jupe",
+            "auteur": "Jean-Paul Lilienfeld",
+            "editeur": "Points"
+    },
+    {
+            "id": 34,
+            "nom": "Le Jour des triffides",
+            "auteur": "John Wyndham",
+            "editeur": "Folio"
+    },
+    {
+            "id": 35,
+            "nom": "Les Jumeaux de Piolenc",
+            "auteur": "Sandrine Destombes",
+            "editeur": "Hugo Roman"
+    },
+    {
+            "id": 36,
+            "nom": "Les Joyaux de la sorcière",
+            "auteur": "Anne Bishop",
+            "editeur": "Bragelonne"
+    },
+    {
+            "id": 37,
+            "nom": "Les Jours de ton absence",
+            "auteur": "Rosa Montero",
+            "editeur": "Points"
+    },
+    {
+            "id": 38,
+            "nom": "La Jalousie",
+            "auteur": "Alain Robbe-Grillet",
+            "editeur": "Minuit"
+    },
+    {
+            "id": 39,
+            "nom": "Les Jardins de la lune",
+            "auteur": "Steven Erikson",
+            "editeur": "Leha"
+    },
+    {
+            "id": 40,
+            "nom": "Le Jour où Anita envoya tout balader",
+            "auteur": "Katarina Bivald",
+            "editeur": "Denoël"
+    }
+]
+    
