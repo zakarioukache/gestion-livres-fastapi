@@ -1,7 +1,6 @@
 from fastapi import FastAPI,HTTPException, Path
 from dataclasses import dataclass, asdict
 import json
-from typing import List
 import uvicorn
 
 # Chargement des données du fichier JSON
